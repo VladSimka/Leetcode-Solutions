@@ -1,4 +1,4 @@
-package com.vladsimonenko.queue;
+package com.vladsimonenko.algorithms.queue;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
